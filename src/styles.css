@@ -11,7 +11,7 @@ html {
 }
 
 :root {
-  --background: #aec6cf;
+  --background: #868788;
   --board: #673f31;
 }
 
@@ -108,7 +108,6 @@ body {
 
 .history-div ul {
   list-style: none;
-  /* background-color: red; */
   padding: 10px;
 }
 
