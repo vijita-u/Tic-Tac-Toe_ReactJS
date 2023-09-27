@@ -37,3 +37,29 @@ To run this project locally, follow these steps:
 
 The game is a classic Tic-Tac-Toe implementation where two players take turns marking cells with their respective symbols (X and O). The first player to get three of their symbols in a row, column, or diagonal wins the game. If no player wins and all cells are filled, the game ends in a draw.
 
+## Additional Features
+
+- **Responsive Design**: The game is responsive and can be played on various screen sizes.
+- **Winning Highlight**: When a player wins, the three squares that caused the win are highlighted.
+- When no one wins and the game ends in a draw, a message is displayed to indicate the result.
+
+## Exta Challenges undertaken
+
+Among the additional challenges suggested on the [react.dev](https://react.dev/learn/tutorial-tic-tac-toe) website, the following were successfully completed to further enhance my React skills:
+
+1. For the current move only, show “You are at move #…” instead of a button.
+2. Rewrite Board to use two loops to make the squares instead of hardcoding them.
+3. When someone wins, highlight the three squares that caused the win (and when no one wins, display a message about the result being a draw).
+
+## Acknowledgements
+
+I'd like to express my gratitude to the React Team for providing exceptional [React Documentation](https://react.dev/), serving as an excellent resource for individuals who are new to React and programming as a whole.
+
+## License
+
+This project is open-source and available under the [MIT License](https://github.com/vijita-u/Tic-Tac-Toe_ReactJS/blob/main/LICENSE).
+
+## Contact
+- [Email me](mailto:udayvijita3009@gmail.com?subject=Github%20Message)
+
+- [Let's connect on LinkedIn](https://www.linkedin.com/in/vijita-uday/)
